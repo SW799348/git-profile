@@ -1,4 +1,5 @@
-Hi ! 👋 I'm Samadhi Weerasekara
+Hi ! 👋
+I'm Samadhi Weerasekara
 ===========================================================================================================================================
 
 Software Engineer Undergraduate Student @IJSE
