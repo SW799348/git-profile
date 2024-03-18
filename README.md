@@ -7,6 +7,8 @@ Software Engineer Undergraduate Student @IJSE
 
 Still Learning......
 
+![](https://komarev.com/ghpvc/?username=sw799348&color=green)
+
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sw799348@gmail.com](mailto:sw799348@gmail.com)
 * 🧠  I'm learning Institute of Java Software Engineering
