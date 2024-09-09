@@ -15,7 +15,7 @@ Still Learning......
 * 🤝  I'm open to collaborating on projects [Samadhi-Weerasekara.com](https://samadhi-weerasekara.github.io/samadhi-portfolio/)
 
 <a href="https://github.com/Samadhi-Weerasekara" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SW799348?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/Samadhi-Weerasekara?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
 
 ### Skills
 
