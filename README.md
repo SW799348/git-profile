@@ -12,7 +12,7 @@ Still Learning......
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sw799348@gmail.com](mailto:sw799348@gmail.com)
 * 🧠  I'm learning Institute of Java Software Engineering
-* 🤝  I'm open to collaborating on projects [Samadhi-Weerasekara.com](https://sw799348.github.io/Samadhi-Weerasekara/)
+* 🤝  I'm open to collaborating on projects [Samadhi-Weerasekara.com](https://samadhi-weerasekara.github.io/samadhi-portfolio/)
 
 <a href="https://www.github.com/SW799348" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SW799348?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
