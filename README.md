@@ -33,12 +33,12 @@ src="https://img.shields.io/github/followers/Samadhi-Weerasekara?logo=github&sty
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-stats.vercel.app/api?username=SW799348&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="SW799348's GitHub stats" /></a>
+<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Weerasekara&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="SW799348's GitHub stats" /></a>
 
-<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SW799348&stroke=ffffff&background=0f172a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samadhi-Weerasekara&stroke=ffffff&background=0f172a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SW799348&bg_color=0f172a&color=ffffff&line=444e59&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samadhi-Weerasekara&bg_color=0f172a&color=ffffff&line=444e59&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Samadhi-Weerasekara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW799348&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Samadhi-Weerasekara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadhi-Weerasekara&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 
